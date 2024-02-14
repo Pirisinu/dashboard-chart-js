@@ -1,10 +1,13 @@
 <script>
+import store from '../partials/data/store';
 export default {
   name: 'Aside',
   components: {},
   props: {},
   data() {
-    return {}
+    return {
+      store
+    }
   },
   mounted() {},
   beforeDestroy() {},
@@ -13,17 +16,27 @@ export default {
 </script>
 
 <template>
-  <aside class="px-3 pt-4 ">
-    <h4 class="text-light"><strong>Dashbool</strong></h4>
-    <div class="user d-flex">
-      <div class="user-logo">
+  <aside class="px-3 pt-4 text-light">
+    <h4><strong>Dashbool</strong></h4>
+
+    <div class="user d-flex align-items-center my-4 ">
+      <div class="user-logo h-100 border border-4 border-light ">
         <img class="" src="../../../public/img/avatar_1.jpg" alt="">
       </div>
-      <div class="user-welcome text-light ms-3">
-        <h5 class="mb-0">Welcome</h5>
-        <p>Mario Rossi</p>
+      <div class="user-welcome d-flex justify-content-center ms-3 flex-column">
+        <h5 class="mb-0 line">Welcome</h5>
+        <p class="mb-0"> <strong>{{ store.userName }} {{ store.userSurname }}</strong></p>
       </div>
+    </div>
 
+    <div class="general">
+      <h4>General</h4>
+      <ul class="list-unstyled">
+        <li><i class="fa-solid fa-home"></i>Home</li>
+        <li><i class="fa-solid fa-map"></i>Maps</li>
+        <li><i class="fa-solid fa-gear"></i>Config</li>
+        <li><i class="fa-solid fa-envelope"></i>Contacts</li>
+      </ul>
     </div>
   </aside>
 </template>
@@ -35,10 +48,9 @@ export default {
     background-color: #2A4054;
 
     .user{
-
       .user-logo{
-        width: 50px;
-        height: 50px;
+        height: 60px;
+        width: 60px;
         border-radius: 50%;
         overflow: hidden;
         img{
@@ -46,6 +58,18 @@ export default {
           height: 100%;
           object-fit: cover;
           object-position: center;
+        }
+      }
+    }
+
+    .general{
+      ul{
+        li{
+          margin: 20px 0;
+          font-size: 1.3rem;
+          i{
+            margin-right: 20px;
+          }
         }
       }
     }
