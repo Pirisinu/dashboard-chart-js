@@ -43,7 +43,7 @@ export default {
 
 <style lang="scss" scoped>
   aside{
-    width: 250px;
+    width: 15%;
     min-height: 100vh;
     background-color: #2A4054;
 
