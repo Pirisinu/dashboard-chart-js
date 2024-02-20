@@ -1,0 +1,101 @@
+{
+  "data": 
+  {
+    "MonthlyConnections": [
+        {
+            "month": "Gennaio",
+            "connections": 114
+        },
+        {
+            "month": "Febbraio",
+            "connections": 300
+        },
+        {
+            "month": "Marzo",
+            "connections":106
+        },
+        {
+            "month": "Aprile",
+            "connections": 107
+        },
+        {
+            "month": "Maggio",
+            "connections": 111
+        },
+        {
+            "month": "Giugno",
+            "connections": 133
+        },
+        {
+            "month": "Luglio",
+            "connections": 221
+        },
+        {
+            "month": "Agosto",
+            "connections": 783
+        },
+        {
+            "month": "Settembre",
+            "connections": 2478
+        },
+        {
+            "month": "Ottobre",
+            "connections": 3000
+        },
+        {
+            "month": "Novembre",
+            "connections": 2305
+        },
+        {
+            "month": "Dicembre",
+            "connections": 4340
+        }
+    ],
+    "UsersAgeRange": [
+        {
+            "range": "0-16",
+            "connections": 2478
+        },
+        {
+            "range": "17-25",
+            "connections": 5267
+        },
+        {
+            "range": "26-35",
+            "connections": 734
+        },
+        {
+            "range": "36-45",
+            "connections": 784
+        },
+        {
+            "range": "46-60",
+            "connections": 433
+        }
+    ],
+    "Devices": [
+        {
+            "os": "Android",
+            "connections": 50
+        },
+        {
+            "os": "iOS",
+            "connections": 30
+        },
+        {
+            "os": "Windows",
+            "connections": 20
+        },
+        {
+            "os": "Linux",
+            "connections": 10
+        },
+        {
+            "os": "macOS",
+            "connections": 15
+        }
+    ]
+  },
+  "connections":
+  [{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"46-60","device":"Linux"},{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"26-35","device":"Linux"},{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"17-25","device":"Linux"},{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"26-35","device":"Android"},{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"36-45","device":"Android"},{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"17-25","device":"Android"},{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"36-45","device":"Android"},{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"46-60","device":"iOs"},{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"46-60","device":"Windows"},{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"17-25","device":"Windows"},{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"26-35","device":"Linux"},{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"26-35","device":"Windows"},{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"46-60","device":"Windows"},{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"17-25","device":"Android"},{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"46-60","device":"Windows"},{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"0-16","device":"Windows"},{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"36-45","device":"Linux"},{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"46-60","device":"iOs"},{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"46-60","device":"Windows"},{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"36-45","device":"Windows"},{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"36-45","device":"Android"},{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"17-25","device":"Windows"},{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"0-16","device":"iOs"},{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"17-25","device":"Android"},{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"17-25","device":"Windows"},{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"0-16","device":"Windows"},{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"46-60","device":"iOs"},{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"36-45","device":"Android"},{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"0-16","device":"Windows"},{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"26-35","device":"Windows"},{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"0-16","device":"Android"},{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"17-25","device":"iOs"},{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"36-45","device":"Linux"},{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"26-35","device":"Android"},{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"36-45","device":"iOs"},{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"26-35","device":"Android"},{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"17-25","device":"Android"},{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"36-45","device":"iOs"},{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"17-25","device":"Linux"},{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"26-35","device":"iOs"},{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"36-45","device":"iOs"},{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"36-45","device":"Linux"},{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"46-60","device":"iOs"},{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"17-25","device":"Windows"},{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"17-25","device":"Windows"},{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"36-45","device":"Android"},{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"46-60","device":"Linux"},{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"0-16","device":"Linux"},{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"17-25","device":"Linux"},{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"26-35","device":"iOs"},{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"17-25","device":"Android"},{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"46-60","device":"Windows"},{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"36-45","device":"iOs"},{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"26-35","device":"Android"},{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"17-25","device":"Android"},{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"36-45","device":"Linux"},{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"26-35","device":"iOs"},{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"46-60","device":"Android"},{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"0-16","device":"Android"},{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"46-60","device":"Linux"},{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"36-45","device":"iOs"},{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"36-45","device":"Android"},{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"0-16","device":"Android"},{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"46-60","device":"Linux"},{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"0-16","device":"iOs"},{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"0-16","device":"Linux"},{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"17-25","device":"Linux"},{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"26-35","device":"Windows"},{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"26-35","device":"Windows"},{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"36-45","device":"Linux"},{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"46-60","device":"Windows"},{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"46-60","device":"Android"},{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"17-25","device":"Linux"},{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"36-45","device":"Windows"},{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"0-16","device":"iOs"},{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"17-25","device":"Windows"},{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"0-16","device":"Android"},{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"17-25","device":"Windows"},{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"36-45","device":"Windows"},{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"46-60","device":"Windows"},{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"46-60","device":"Android"},{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"17-25","device":"Linux"},{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"0-16","device":"Windows"},{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"36-45","device":"iOs"},{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"17-25","device":"iOs"},{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"17-25","device":"Linux"},{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"0-16","device":"iOs"},{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"17-25","device":"iOs"},{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"46-60","device":"Android"},{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"26-35","device":"iOs"},{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"26-35","device":"Linux"},{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"46-60","device":"Windows"},{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"36-45","device":"iOs"},{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"46-60","device":"iOs"},{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"17-25","device":"iOs"},{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"26-35","device":"Windows"},{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"17-25","device":"Android"},{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"26-35","device":"iOs"},{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"46-60","device":"Linux"},{"ip":"xxx.xxx.xxx.xxx","date":"today","age":"46-60","device":"Windows"}]
+}
